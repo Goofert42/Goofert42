@@ -10,7 +10,7 @@ Hi, I'm Goofert42 (formally PogJeff42). I'm a hobby developer and love making sm
 ## 📊 Stats
 <div align="center">
   
-  [![Streak](https://github-readme-streak-stats.herokuapp.com?user=Goofert42&theme=tokyonight_duo&hide_border=true)](https://github.com/KingCh1ll) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Goofert42&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Streak](https://github-readme-streak-stats.herokuapp.com?user=Goofert42&theme=tokyonight_duo&hide_border=true)](https://github.com/Goofert42) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Goofert42&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="right">
