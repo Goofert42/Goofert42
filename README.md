@@ -5,7 +5,7 @@ Hi, I'm Goofert42 (formally PogJeff42). I'm a hobby developer and love making sm
 
 ## 📂 Projects
   - 🌐 <a href="https://goofert.org/">Website</a> - My personal site!
-  - ⛏️ <a href="https://github.com/Goofert42/MineTimer">MineTimer</a> - Record your Minecraft playtime. (Coming soon...)
+  - ⛏️ <a href="https://github.com/Goofert42/MineTimer">MineTimer</a> - Record your Minecraft playtime with ease!
 
 ## 📊 Stats
 <div align="center">
