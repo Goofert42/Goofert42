@@ -6,6 +6,7 @@ Hi, I'm g0ofert. I'm a hobby developer and love making small side projects, some
 ## 📂 Projects
   - 🌐 <a href="https://goofert.org/">Website</a> - My personal site!
   - ⛏️ <a href="https://github.com/Goofert42/MineTimer">MineTimer</a> - Record your Minecraft playtime with ease!
+  - 🧑‍🌾 <a href="https://goofert.org/">Garden Notifier</a> - A Grow a Garden notifier and utility discord bot
 
 ## 📊 Stats
 <div align="center">
