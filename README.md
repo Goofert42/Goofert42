@@ -11,7 +11,7 @@ Hi, I'm g0ofert. I'm a hobby developer and love making small side projects, some
 ## 📊 Stats
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Goofert42&theme=dark)](https://github.com/Goofert42) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Goofert42&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goofert42)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="right">
