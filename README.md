@@ -15,7 +15,7 @@ Hi, I'm g0ofert. I make stuff sometimes.
 </div>
 
 <div align="right">
-  <a href="https://goofert.org/">Goofert.org</a> | <a href="https://discord.gg/u3NDJycP5v">Discord server</a>
+  <a href="https://goofert.org/">goofert.org</a> | <a href="https://discord.gg/u3NDJycP5v">Discord</a>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=146920696)
