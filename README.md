@@ -10,7 +10,7 @@ Hi, I'm g0ofert. I make stuff sometimes.
 ## 📊 Stats
 <div align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goofert42&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Goofert42&hide_title=true&show_icons=true&include_all_commits=true&theme=ambient_gradient)]
 </div>
 
 <div align="right">
